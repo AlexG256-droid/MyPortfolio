@@ -29,3 +29,5 @@ function in the messages.py file.
 The computer asks the user for a rematch after the game is done after calling the is_won function. If the user
 says yes, a new game will start and everything will be undone (except for the leaderboard info). If the user says
 no, the terminal will be killed.
+
+NOTE: Run this project using the memory_game.py file
