@@ -1,6 +1,0 @@
-quitbutton.gif
-card_warning.gif
-file_error.gif
-leaderboard_error.gif
-winner.gif
-quitmsg.gif
