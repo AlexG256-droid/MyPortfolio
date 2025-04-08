@@ -1,6 +1,0 @@
-If you click on a card before two other cards flip over or disappear, there will be some sort of bug where the
-next two cards clicked on will stay the same (the front sides of those cards will not disappear). Unfortunately
-I have been unable to fix this bug based on the way I have my code structured. In general, wait until the two
-cards you clicked on are either hidden or flipped back, and then click on another card so that this does not
-happen. Also, if using VSCode, before running the code, click on the explorer icon > Open Folder > name of the
-recently downloaded folder and then run the code with memory_game.py.
